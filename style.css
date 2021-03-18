@@ -1,0 +1,22 @@
+.canvas-container{
+    width: 65vw;
+    text-align: center;
+}
+
+canvas{
+    height: 700px;
+    width: 700px;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.container{
+    display: flex;
+}
+
+.parameters{
+    width: 35vw;
+}
+
+
